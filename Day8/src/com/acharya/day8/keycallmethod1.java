@@ -1,7 +1,7 @@
 package com.acharya.day8;
-class s2
+class S2
 {
-	void v(s2 a) {
+	void v(S2 a) {
 		System.out.println("method is invoked");
 	}
 	void p() {
@@ -12,8 +12,8 @@ class s2
 public class Keycallmethod1 {
 
 	public static void main(String[] args) {
-		        s2 s=new  s2();
-		        s.p();
+		        S2 s=new  S2();
+		        S.p();
 
 	}
 
