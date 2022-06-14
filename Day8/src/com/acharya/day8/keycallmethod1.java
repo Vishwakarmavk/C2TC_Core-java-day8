@@ -9,7 +9,7 @@ class s2
 	}
 }
 
-public class keycallmethod1 {
+public class Keycallmethod1 {
 
 	public static void main(String[] args) {
 		        s2 s=new  s2();
